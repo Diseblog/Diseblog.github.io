@@ -1,2 +1,2 @@
 # Diseblog.github.io
-Undiluted blogs at your finger tip
+Undiluted blog at your finger tips
